@@ -49,7 +49,7 @@ import scipy.ndimage as filters
 import scipy.ndimage.morphology as morphology
 from numpy.typing import ArrayLike
 
-FloatArray = numpy.typing.NDArray[np.float_]
+FloatArray = numpy.typing.NDArray[np.float64]
 AnyArray = numpy.typing.NDArray[Any]
 
 __version__ = '0.7.0'
