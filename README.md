@@ -1,6 +1,8 @@
 [![Documentation Status](https://readthedocs.org/projects/qtt/badge/?version=latest)](https://qtt.readthedocs.io/en/latest/?badge=latest)
 [![PyPI version](https://badge.fury.io/py/qtt.svg)](https://badge.fury.io/py/qtt)
 
+UPDATED TO WORK WITH NUMPY 2.0
+
 # Important notice
 
 As of December 2023, this repository is no longer maintained. This means the maintenance team:
